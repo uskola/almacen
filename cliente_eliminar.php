@@ -1,7 +1,4 @@
-<?php
-	include("funciones/verificar_inicio_sesion.php");
-//Incluimos el archivo con las funciones para mostrar mensajes
-include("funciones/mensajes.php");	
+
 		
 	if (!is_numeric($_GET["codcli"])) //Verificamos que el codigo del cliente sea un numero
 	{	
