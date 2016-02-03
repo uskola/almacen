@@ -1,3 +1,4 @@
+//cambios en categoria
 <?php
 	include("funciones/verificar_inicio_sesion.php");
 //Incluimos el archivo con las funciones para mostrar mensajes

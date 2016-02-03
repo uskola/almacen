@@ -1,3 +1,4 @@
+//pues tambien cambio esto
 <?php
 	include("funciones/verificar_inicio_sesion.php");
 
